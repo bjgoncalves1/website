@@ -1,0 +1,15 @@
+# Site settings
+title: Hi, Im Beltino.
+description: Beltino Gonçalves professional portfolio.
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Beltino Gonçalves
+user_title: Mr.
+user_job_title: Data Scientist
+email: beltino.goncalves [at] outlook.com
+#twitter_username: 
+github_username:  bjgoncalves1
+
+exclude: ['package.json', 'src' , 'node_modules']
